@@ -1,0 +1,6 @@
+faiss-cpu
+langchain-community
+langchain-openai
+pypdf
+python-dotenv
+streamlit-option-menu
